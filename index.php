@@ -12,3 +12,8 @@
     </form>
 </body>
 </html>
+<form action="pagina2_aeroporti.php" method="POST">
+    <label for="nazione">Nazione:</label>
+    <input type="text" name="nazione" id="nazione">
+    <button type="submit">Cerca</button>
+</form>
